@@ -1,7 +1,7 @@
 
 
 # Pipets to Profits: Supply Chain Optimization 
-📌 **Objective:** Reduce costs and improve efficiency in laboratory inventory distribution through supply chain optimization.  
+💡 **Objective:** Reduce costs and improve efficiency in laboratory inventory distribution through supply chain optimization.  
 
 ##  Problem Statement  
 A high volume, boutique healthcare clinic struggled with high distribution costs and inefficiencies in its laboratory supply chain, resulting in excessive ordering and inflated shipping expenses. To enhance ordering efficiency and reduce costs, a comprehensive analysis was essential in identifying key areas for process optimization.
@@ -28,4 +28,3 @@ Using Lean Six Sigma principles, data analysis, and supply chain modeling, I:
 
 📂 **Check out the full report** → [Final Presentation](./reports/Pipets_to_Profits_Case_Study.pdf)  
 
-💡 **Interested in more consulting case studies?** Check out my portfolio [here](https://github.com/yourusername).
