@@ -1,7 +1,7 @@
 
 
 # Pipets to Profits: Supply Chain Optimization 
-📌 **Objective:** Reduce costs and improve efficiency in laboratory pipet distribution through supply chain optimization.  
+📌 **Objective:** Reduce costs and improve efficiency in laboratory inventory distribution through supply chain optimization.  
 
 ##  Problem Statement  
 A high volume, boutique healthcare clinic struggled with high distribution costs and inefficiencies in its laboratory supply chain, resulting in excessive ordering and inflated shipping expenses. To enhance ordering efficiency and reduce costs, a comprehensive analysis was essential in identifying key areas for process optimization.
