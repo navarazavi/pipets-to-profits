@@ -4,8 +4,8 @@
 📌 **Objective:** Reduce costs and improve efficiency in laboratory pipet distribution through supply chain optimization.  
 
 ##  Problem Statement  
-A life sciences company faced **high distribution costs** and **inefficiencies in pipet supply chain logistics**, leading to over-ordering habits and high shipping costs. To improve ordering efficiency while reducing cost, further analysis was integral to finding where and how we could optimize all processes.   
-
+ life sciences company struggled with high distribution costs and inefficiencies in its pipet supply chain, resulting in excessive ordering and inflated shipping expenses. To enhance ordering efficiency and reduce costs, a comprehensive analysis was essential in identifying key areas for process optimization.
+ 
 ## Approach  
 Using **Lean Six Sigma principles, data analysis, and supply chain modeling**, I:  
 ⦿ Mapped out inefficiencies in current logistics  
