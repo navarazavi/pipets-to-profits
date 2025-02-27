@@ -13,9 +13,9 @@ Using **Lean Six Sigma principles, data analysis, and supply chain modeling**, I
 ⦿ Designed an **optimized inventory strategy** to minimize delays  
 
 ## Key Results  
-📉 **15% reduction in supply chain costs**  
-📈 **20% improvement in order fulfillment efficiency**  
-💰 **Projected 33% increase in annual savings**  
+➊ 📉 **15% reduction in supply chain costs**  
+➋ 📈 **20% improvement in order fulfillment efficiency**  
+➌ 💰 **Projected 33% increase in annual savings**  
 
 ##  Tools & Methodologies  
 ⦿ Lean Six Sigma  
